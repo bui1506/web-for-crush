@@ -1,16 +1,16 @@
 const textConfig = {
-  text1: "Hí bae !!!",
-  text2: "Trái đất này vốn tròn sao bae lại đi lạc vào lòng tớ, cậu trả lời thật lòng đi.",
-  text3: "Cậu có yêu tớ mà phải không bae",
+  text1: "Chào anh yêu !!!",
+  text2: "Trái đất này vốn tròn sao anh lại đi lạc vào lòng em, anh trả lời thật lòng đi.",
+  text3: "anh có yêu em mà phải không anh",
   text4: "Trả lời đi, out ra là đấm chớt đó nhoa ba:v",
   text5: "Có cái nịt nhá =(((",
   text6: "Yêu chứ, yêu nhất luôn nhóa <3",
   text7: "Cho cái lý do đi nào:vvvv",
-  text8: "Gửi cho tớ <3",
-  text9: "Vì cậu dễ thương vlllll, nhất đời luôn <3",
-  text10: "Tớ biết mà ^^ Yêu cậu 300.000",
+  text8: "Gửi cho em <3",
+  text9: "Vì em dễ thương vlllll, nhất đời luôn <3",
+  text10: "Em biết mà ^^ Yêu anh 300.000",
   text11:
-    "Đợi tới cus nhóa bae, mình cx đg đợi cậu á. love bae <3",
+    "Tìm em đi ạ. love bae <3",
   text12: "Okii lunn <3",
 };
 
